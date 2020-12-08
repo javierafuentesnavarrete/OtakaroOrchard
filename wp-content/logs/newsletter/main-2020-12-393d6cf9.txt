@@ -1,0 +1,1 @@
+02-12-2020 19:36:48 - ERROR - v: 6.9.9 - m: 13.2 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago by /Users/javierafuentes/Local Sites/otakaro-orchard/app/public/;Javieras-MacBook-Pro.local
